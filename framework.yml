@@ -2,6 +2,11 @@ version: 2.0 Feb 2019
 framework:
   - 
     name: Plan and design
+    description: |-
+      Planning and design of data, research software and other outputs, including the associated 
+      documentation. This will include all relevant steps including identifying the requirements 
+      of research output users, the organisation and research funders, then establishing effective 
+      approaches to meet their requirements, and then testing and validating the initial outputs.
     color: red
     competences: 
       - 
@@ -22,6 +27,11 @@ framework:
         title: Appraise and select repositories for FAIR sharing
   - 
     name: Capture and process
+    description: |-
+      Capturing and processing of data or related materials to enable research evidence to be 
+      prepared for analysis; provisioning of secure managed access to networked storage, scalable 
+      to meet demands, plus resources, tools, standards and workflows for collaboration between 
+      research team members, and relevant third parties.
     color: green
     competences: 
       - 
@@ -45,6 +55,11 @@ framework:
         title: Data cleaning, processing and software versioning
   - 
     name: Integrate and analyse
+    description: |-
+      Developing and applying appropriate methods to enable lines of enquiry to be formulated 
+      and pursued towards the research objectives, by assembling and integrating selected data, 
+      software, systems, or other resources, and enabling relevant knowledge and techniques to 
+      be applied in their analysis and transformation into research outputs.
     color: purple
     competences: 
       - 
@@ -74,6 +89,12 @@ framework:
         title: Machine learning methods
   - 
     name: Appraise and preserve
+    description: |-
+      Developing and applying appropriate methods to appraise research outputs for their 
+      compliance with ethical, FAIR and research integrity principles, their value to the 
+      organisation and to research reproducibility, and their potential to serve new purposes 
+      or communities; planning and taking action to mitigate risks to long-term access for 
+      further appraisal. 
     color: cyan
     competences: 
     - 
@@ -97,6 +118,11 @@ framework:
       title: Software review and preservation
   - 
     name: Publish and release
+    description: |-
+      Describing research products and their inter-relationships, providing access to 
+      meet the needs of their providers, users, and other stakeholders, in order to maintain 
+      or enhance their value and comply with ethical, FAIR and research integrity principles 
+      and policies.
     color: amber
     competences: 
     - 
@@ -120,6 +146,10 @@ framework:
       title: Engaging in open innovation beyond academia
   - 
     name: Expose and discover
+    description: |-
+      Ensure that processes and mechanisms for providing access to research products and 
+      their inter-relationships follow technology developments, community standards, and 
+      good practices for compliance with ethical, FAIR and research integrity principles.
     color: brown
     competences: 
     - 
@@ -143,6 +173,12 @@ framework:
       title: Vocabulary/ ontology application
   - 
     name: Govern and assess
+    description: |-
+      Developing and maintaining the organisation’s strategies, policies, and processes 
+      on FAIR/open research outputs, and associated documents and processes that enable 
+      these to be implemented, and relevant laws or regulations to be complied with. 
+      Continually reviewing these strategies, policies and processes through  stakeholder 
+      consultation, communication, and impact monitoring.
     color: indigo
     competences: 
     - 
@@ -170,6 +206,12 @@ framework:
       title: Contributing to quality assessment or peer review
   - 
     name: Scope and resource
+    description: |-
+      Identifying the scope of research data services and stewardship activities and 
+      securing the resources to sustain these. Continually reviewing the business 
+      case considering the service value propositions, processes, and relevant costs 
+      and benefits, taking into account governance processes and timelines, and the 
+      need for cost recovery mechanisms to comply with funder requirements.
     color: blue
     competences: 
     - 
@@ -199,6 +241,12 @@ framework:
       title: Costing of data management and preservation
   - 
     name: Advise and enable
+    description: |-
+      Management of services that enable data stewardship and open research, and the 
+      online or face-to-face training and support that service customers need to make 
+      effective use of them. This will include interacting with relevant professional 
+      service units, managing stakeholder relationships, and making continuous 
+      improvements to these.
     color: light-blue
     competences: 
     - 
