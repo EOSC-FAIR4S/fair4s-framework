@@ -114,7 +114,7 @@ related_competences:
   - name: open_methods_services_training
 amplifying_capabilities: 
   - 
-    name: fair_output_preparation_and_documentation: 
+    name: fair_output_preparation_and_documentation
     description: |-
       Supports research groups to determine and fulfil appropriate criteria to reuse, manage, and share FAIR research outputs, and fulfil these expectations according to domain norms and standards.
     services: 
