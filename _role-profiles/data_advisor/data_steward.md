@@ -2,7 +2,6 @@
 role-id: data_advisor
 title: Data steward
 subtitle: Operational level e.g. research group or department / faculty
-layout: role
 sources: 
   - DTL
   - ELIXIR

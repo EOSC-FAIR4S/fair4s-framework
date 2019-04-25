@@ -2,7 +2,6 @@
 role-id: data_service_provider
 title: Data librarian
 subtitle: Institutional level
-layout: role
 sources: 
   - ?
 mapping: 
