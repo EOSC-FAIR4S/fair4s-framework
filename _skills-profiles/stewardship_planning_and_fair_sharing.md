@@ -1,7 +1,7 @@
 ---
 needs: 
   knowledge: 
-  	- 
+    - 
       description: |-
         Show awareness of FAIR principles, relevant data policies of funders or journals, and legal and ethical requirements. Understand why funders have these expectations, why scientific organisations and research institutions support them, and what should be covered in the Data Management Plan (DMP).
       level: basic
