@@ -120,13 +120,13 @@ amplifying_capabilities:
     services: 
       - Data management
   - 
-    name: legal_and_ethics_application: 
+    name: legal_and_ethics_application
     description: |-
       Develops local policies and guidelines for publishing research data and related objects, and for selecting repositories that comply with relevant regulatory and policy frameworks.
     services: 
       - Training and support
   - 
-    name: fair_data_publishing: 
+    name: fair_data_publishing
     description: |-
       Provides access to repository functions to ensure preserved research objects remain FAIR for as long as required, enabling these functions to interoperate with other systems or processes that provide or extract information to maintain or enhance FAIRness of the research objects held.
     services: 
