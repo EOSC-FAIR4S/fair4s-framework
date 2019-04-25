@@ -43,7 +43,6 @@ needs:
 success_criteria: |-
   Each research study has a Data Management Plan (or similar, e.g. Data Stewardship Plan, Software Management Plan, or Outputs Management Plan) is produced and reviewed by the Principle Investigator, supervisor, or funder. It is referred to throughout the study it relates to, and updated if necessary. Updates include any significant changes in methods, standards, or services that have been or will be used to make outputs FAIR, or in responsibilities for these.
 roles: 
-  - 
     researcher: 
       - 
         name: r1
@@ -58,7 +57,6 @@ roles:
         keyskill: true
       - 
         name: r4
-  - 
     data_scientist: 
       - 
         name: r1
@@ -73,7 +71,6 @@ roles:
         keyskill: true
       - 
         name: r4
-  - 
     data_advisor: 
       - 
         name: data_steward
@@ -92,7 +89,6 @@ roles:
       - 
         name: commercialisation_advisor
         directly_involved: true
-  - 
     data_service_provider: 
       - 
         name: data_librarian

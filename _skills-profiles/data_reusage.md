@@ -43,7 +43,6 @@ needs:
 success_criteria: |-
   Research data, code, and related outputs are found, accessed, and made to interoperate with those locally available. They are made actionable for reuse within licensing or privacy conditions, and enable excellent research, teaching or other applications.
 roles: 
-  - 
     researcher: 
       - 
         name: r1
@@ -58,7 +57,6 @@ roles:
       - 
         name: r4
         directly_involved: true
-  - 
     data_scientist:
       - 
         name: r1
@@ -74,7 +72,6 @@ roles:
       - 
         name: r4
         directly_involved: true
-  - 
     data_advisor: 
       - 
         name: data_steward
@@ -89,7 +86,6 @@ roles:
       - 
         name: commercialisation_advisor
         directly_involved: true
-  - 
     data_service_provider: 
       - 
         name: data_librarian
