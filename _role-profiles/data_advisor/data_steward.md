@@ -9,7 +9,7 @@ mapping:
   - 
     keyskill: stewardship_planning_and_fair_sharing
     description: |-
-      You have in-depth understanding of your organisation's RDM policy, and of the policies of relevant research funders in relation to planning for FAIR outputs, including Data Management Plans. You have in-depth knowledge of  the legal and ethical frameworks applicable to the research communities you support. You are also familiar with these communities’ research methods, tools, standards and services used locally.   You are able to translate this knowledge and understanding into Data Management Plan (DMP) templates for the researchers you support, providing expert advice appropriate to  all career stages.  You can articulate how planning benefits the researcher as the ‘first reuser’ of their outputs, and seek help where needed from other professional services.
+      You have in-depth understanding of your organisation's RDM policy, and of the policies of relevant research funders in relation to planning for FAIR outputs, including Data Management Plans. You have in-depth knowledge of  the legal and ethical frameworks applicable to the research communities you support. You are also familiar with these communities’ research methods, tools, standards and services used locally. You are able to translate this knowledge and understanding into Data Management Plan (DMP) templates for the researchers you support, providing expert advice appropriate to  all career stages. You can articulate how planning benefits the researcher as the ‘first reuser’ of their outputs, and seek help where needed from other professional services.
     level: expert
     support_providers: 
       - Data librarian

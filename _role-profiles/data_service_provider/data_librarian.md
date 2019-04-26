@@ -9,7 +9,7 @@ mapping:
     keyskill: open_research_tools_services_usage_or_development
     description: |-
       You have in-depth knowledge of relevant (inter)national data and e-infrastructure services for making data FAIR, and keeping it FAIR.  You identify and respond to the needs for services and resources, ensuring those provided are also FAIR, and as open as possible to reuse by researchers affiliated with the organisation, and by other users according to organisational policy and legal obligations. You take ownership responsibility for the development, set-up and update of suitable support tools or services, monitor availability and use, and ensure delivery of training on their effective application. Liaising with relevant professional services, e.g. research software engineers and data service architects, you ensure the organisation’s service management processes are followed.
-    level: expert
+    level: intermediate
     support_providers: 
       - Research software engineer
       - Data service architect
@@ -26,7 +26,7 @@ mapping:
   - 
     keyskill: fair_output_preparation_and_documentation
     description: |-
-      Your have expert knowledge of relevant (inter)national data and e-infrastructure services and provide advice on their alignment with current standards and resources available from the organisation to assist researchers in making their outputs FAIR. You ensure guidance and instruction is available on making data findable, and that standard solutions are available for cleaning data to make it actionable and interoperable for reuse.  With in-depth knowledge of ethical and commercial constraints on data access, you monitor liaison with relevant professional services and systems across the organisation. You ensure expert advice is available on appraising and selecting data of value for reuse, and on good practice in managing software code, including versioning and documentation.
+      You have expert knowledge of relevant (inter)national data and e-infrastructure services and provide advice on their alignment with current standards and resources available from the organisation to assist researchers in making their outputs FAIR. You ensure guidance and instruction is available on making data findable, and that standard solutions are available for cleaning data to make it actionable and interoperable for reuse.  With in-depth knowledge of ethical and commercial constraints on data access, you monitor liaison with relevant professional services and systems across the organisation. You ensure expert advice is available on appraising and selecting data of value for reuse, and on good practice in managing software code, including versioning and documentation.
     level: expert
     support_providers: 
       - Data steward
