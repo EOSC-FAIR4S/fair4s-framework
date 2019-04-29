@@ -1,5 +1,6 @@
 ---
 role-id: data_service_provider
+name: data_librarian
 title: Data librarian
 subtitle: Institutional level
 sources: 

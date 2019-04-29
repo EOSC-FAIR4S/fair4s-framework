@@ -1,5 +1,6 @@
 ---
 role-id: data_advisor
+name: data_steward
 title: Data steward
 subtitle: Operational level e.g. research group or department / faculty
 sources: 
